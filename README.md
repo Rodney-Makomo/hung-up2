@@ -13,7 +13,7 @@ No errors were found I've corrected them.
 Currently the graphics arent showing up properly on the game and the hangman word is being shown too early therefore spoiling the game.
 
 # Deployment
-Heroku.com
+Heroku.com - https://hung-up.herokuapp.com/
 
 # Credits
 hangmanwords.com - words
