@@ -10,7 +10,7 @@ No errors were found I've corrected them.
 ![](assets/images/pep8_correct.JPG)
 
 # Bug report
-Currently the graphics arent showing up properly on the game and the hangman word is being shown too ealry therefore spoiling the game.
+Currently the graphics arent showing up properly on the game and the hangman word is being shown too early therefore spoiling the game.
 
 # Deployment
 Heroku.com
