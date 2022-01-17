@@ -17,3 +17,4 @@ Heroku.com - https://hung-up.herokuapp.com/
 
 # Credits
 hangmanwords.com - words
+Grapgics and layout - https://replit.com/@SanjinDedic/hangmanADVANCED
