@@ -1,31 +1,19 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# About 
+This is a hangman game built using python to be played in the command line. This game uses if statements, while loops and for loops. Functions are used to run the game and there are addiotional files used for the graphics of the game and the list of words that are imported.
+# Languages 
+- Python
 
-Welcome USER_NAME,
+# Validator testing
+When testing through pep8online I found a few errors that related to indentation and syntax.
+![](assets/images/pep8_errors.JPG)
+No errors were found I've corrected them.
+![](assets/images/pep8_correct.JPG)
 
-This is the Code Institute student template for deploying your third portfolio project, the Python command-line project. The last update to this file was: **August 17, 2021**
+# Bug report
+Currently the graphics arent showing up properly on the game and the hangman word is being shown too ealry therefore spoiling the game.
 
-## Reminders
+# Deployment
+Heroku.com
 
-* Your code must be placed in the `run.py` file
-* Your dependencies must be placed in the `requirements.txt` file
-* Do not edit any of the other files or your code may not deploy properly
-
-## Creating the Heroku app
-
-When you create the app, you will need to add two buildpacks from the _Settings_ tab. The ordering is as follows:
-
-1. `heroku/python`
-2. `heroku/nodejs`
-
-You must then create a _Config Var_ called `PORT`. Set this to `8000`
-
-If you have credentials, such as in the Love Sandwiches project, you must create another _Config Var_ called `CREDS` and paste the JSON into the value field.
-
-Connect your GitHub repository and deploy as normal.
-
-## Constraints
-
-The deployment terminal is set to 80 columns by 24 rows. That means that each line of text needs to be 80 characters or less otherwise it will be wrapped onto a second line.
-
------
-Happy coding!
+# Credits
+hangmanwords.com - words
